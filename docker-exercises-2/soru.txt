@@ -1,0 +1,5 @@
+1. En son Ubuntu ve Apache sürümünü içeren bir Dockerfile yazın. 
+Konteyner oluşturulduğunda Apache varsayılan ayarlarıyla çalışmalı ve 
+Apache karşılama sayfasında adınız görüntülenmelidir.
+
+Cevap direkt Dockerfile da yer almaktadır.
