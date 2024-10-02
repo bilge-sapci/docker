@@ -1,0 +1,8 @@
+Python kullanarak basit bir Flask uygulaması oluşturun ve bu uygulamayı çalıştırmak için bir Dockerfile yazın.
+
+Gerekli olan dosyalar
+
+Dockerfile
+requirements.txt
+
+Soru tarafından verilen dosya; app.py diğer dosyaları sizin oluşturmanız gerekmektedir.
