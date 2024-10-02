@@ -1,0 +1,6 @@
+Node.js ile bir uygulama oluşturun ve çok aşamalı bir Dockerfile kullanarak sadece gerekli dosyaları içeren bir imaj oluşturun.
+
+Gerekli olan dosyalar; 
+app.js
+package.json
+Dockerfile

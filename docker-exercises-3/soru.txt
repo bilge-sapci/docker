@@ -4,5 +4,4 @@ Gerekli olan dosyalar
 
 Dockerfile
 requirements.txt
-
-Soru tarafından verilen dosya; app.py diğer dosyaları sizin oluşturmanız gerekmektedir.
+app.py
